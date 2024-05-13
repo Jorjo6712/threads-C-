@@ -1,0 +1,14 @@
+/home/yord0050/Github/threads-C#/Assignment-1/obj/Debug/net8.0/Assignment-1.GeneratedMSBuildEditorConfig.editorconfig
+/home/yord0050/Github/threads-C#/Assignment-1/obj/Debug/net8.0/Assignment-1.AssemblyInfoInputs.cache
+/home/yord0050/Github/threads-C#/Assignment-1/obj/Debug/net8.0/Assignment-1.AssemblyInfo.cs
+/home/yord0050/Github/threads-C#/Assignment-1/obj/Debug/net8.0/Assignment-1.csproj.CoreCompileInputs.cache
+/home/yord0050/Github/threads-C#/Assignment-1/bin/Debug/net8.0/Assignment-1
+/home/yord0050/Github/threads-C#/Assignment-1/bin/Debug/net8.0/Assignment-1.deps.json
+/home/yord0050/Github/threads-C#/Assignment-1/bin/Debug/net8.0/Assignment-1.runtimeconfig.json
+/home/yord0050/Github/threads-C#/Assignment-1/bin/Debug/net8.0/Assignment-1.dll
+/home/yord0050/Github/threads-C#/Assignment-1/bin/Debug/net8.0/Assignment-1.pdb
+/home/yord0050/Github/threads-C#/Assignment-1/obj/Debug/net8.0/Assignment-1.dll
+/home/yord0050/Github/threads-C#/Assignment-1/obj/Debug/net8.0/refint/Assignment-1.dll
+/home/yord0050/Github/threads-C#/Assignment-1/obj/Debug/net8.0/Assignment-1.pdb
+/home/yord0050/Github/threads-C#/Assignment-1/obj/Debug/net8.0/Assignment-1.genruntimeconfig.cache
+/home/yord0050/Github/threads-C#/Assignment-1/obj/Debug/net8.0/ref/Assignment-1.dll

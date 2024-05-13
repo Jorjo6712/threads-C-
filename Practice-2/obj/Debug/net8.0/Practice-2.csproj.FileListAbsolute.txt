@@ -1,0 +1,14 @@
+/home/yord0050/Github/threads-C#/Practice-2/bin/Debug/net8.0/Practice-2
+/home/yord0050/Github/threads-C#/Practice-2/bin/Debug/net8.0/Practice-2.deps.json
+/home/yord0050/Github/threads-C#/Practice-2/bin/Debug/net8.0/Practice-2.runtimeconfig.json
+/home/yord0050/Github/threads-C#/Practice-2/bin/Debug/net8.0/Practice-2.dll
+/home/yord0050/Github/threads-C#/Practice-2/bin/Debug/net8.0/Practice-2.pdb
+/home/yord0050/Github/threads-C#/Practice-2/obj/Debug/net8.0/Practice-2.GeneratedMSBuildEditorConfig.editorconfig
+/home/yord0050/Github/threads-C#/Practice-2/obj/Debug/net8.0/Practice-2.AssemblyInfoInputs.cache
+/home/yord0050/Github/threads-C#/Practice-2/obj/Debug/net8.0/Practice-2.AssemblyInfo.cs
+/home/yord0050/Github/threads-C#/Practice-2/obj/Debug/net8.0/Practice-2.csproj.CoreCompileInputs.cache
+/home/yord0050/Github/threads-C#/Practice-2/obj/Debug/net8.0/Practice-2.dll
+/home/yord0050/Github/threads-C#/Practice-2/obj/Debug/net8.0/refint/Practice-2.dll
+/home/yord0050/Github/threads-C#/Practice-2/obj/Debug/net8.0/Practice-2.pdb
+/home/yord0050/Github/threads-C#/Practice-2/obj/Debug/net8.0/Practice-2.genruntimeconfig.cache
+/home/yord0050/Github/threads-C#/Practice-2/obj/Debug/net8.0/ref/Practice-2.dll

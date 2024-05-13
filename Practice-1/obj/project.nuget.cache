@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0T0sfds8YH+ExdUQXQjlPzHmt/RaywyPcPjFLXFERypD4lrKg7equTUGBfNqSrQCMuF9XcTF0d92xDdKo1367w==",
+  "success": true,
+  "projectFilePath": "/home/yord0050/Github/threads-C#/Practice-1/Practice-1.csproj",
+  "expectedPackageFiles": [
+    "/home/yord0050/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.4/microsoft.aspnetcore.app.ref.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

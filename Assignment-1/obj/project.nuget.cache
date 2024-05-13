@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EqS2GwWbzvbkXUQZnsZhxvqW0OUL2j/eu4kumJA3URAMgSrNarYDkdUaWmVkgE5RfSNhvlR4LqnJVMqAFCMYwg==",
+  "success": true,
+  "projectFilePath": "/home/yord0050/Github/threads-C#/Assignment-1/Assignment-1.csproj",
+  "expectedPackageFiles": [
+    "/home/yord0050/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.4/microsoft.aspnetcore.app.ref.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
