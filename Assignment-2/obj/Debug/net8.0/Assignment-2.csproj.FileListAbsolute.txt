@@ -1,0 +1,15 @@
+B:\Github\threads-C-\Assignment-2\obj\Debug\net8.0\Assignment-2.GeneratedMSBuildEditorConfig.editorconfig
+B:\Github\threads-C-\Assignment-2\obj\Debug\net8.0\Assignment-2.AssemblyInfoInputs.cache
+B:\Github\threads-C-\Assignment-2\obj\Debug\net8.0\Assignment-2.AssemblyInfo.cs
+B:\Github\threads-C-\Assignment-2\obj\Debug\net8.0\Assignment-2.csproj.CoreCompileInputs.cache
+B:\Github\threads-C-\Assignment-2\obj\Debug\net8.0\Assignment-2.sourcelink.json
+B:\Github\threads-C-\Assignment-2\bin\Debug\net8.0\Assignment-2.exe
+B:\Github\threads-C-\Assignment-2\bin\Debug\net8.0\Assignment-2.deps.json
+B:\Github\threads-C-\Assignment-2\bin\Debug\net8.0\Assignment-2.runtimeconfig.json
+B:\Github\threads-C-\Assignment-2\bin\Debug\net8.0\Assignment-2.dll
+B:\Github\threads-C-\Assignment-2\bin\Debug\net8.0\Assignment-2.pdb
+B:\Github\threads-C-\Assignment-2\obj\Debug\net8.0\Assignment-2.dll
+B:\Github\threads-C-\Assignment-2\obj\Debug\net8.0\refint\Assignment-2.dll
+B:\Github\threads-C-\Assignment-2\obj\Debug\net8.0\Assignment-2.pdb
+B:\Github\threads-C-\Assignment-2\obj\Debug\net8.0\Assignment-2.genruntimeconfig.cache
+B:\Github\threads-C-\Assignment-2\obj\Debug\net8.0\ref\Assignment-2.dll
